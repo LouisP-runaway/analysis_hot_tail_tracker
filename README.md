@@ -52,13 +52,6 @@ python main.py
 
 Figures and animations are written to `FIG_DIR` (default `figures/`).
 
-To try the scripts without real data, generate a small synthetic run with the same HDF5 layout:
-
-```bash
-python make_synthetic_data.py test_run
-```
-
-The physics of this run is a toy model. It is only meant to check that the pipeline works.
 
 ## Usage from Python
 
