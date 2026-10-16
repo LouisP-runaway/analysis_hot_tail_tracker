@@ -116,8 +116,5 @@ geometries/             JOREK namelists with the wall and limiter outlines
 
 ## Credits
 
-Original implementation by Louis Puel (CEA, 2024), author of the hot-tail marker tracker. Cleaned, restructured and extended by Timothé Auclair (CEA, 2026).
+Original implementation by Louis Puel (CEA, 2024), author of the hot-tail marker tracker. Cleaned and restructured in 2026.
 
-## License
-
-To be defined.
