@@ -4,9 +4,6 @@ Post-processing of JOREK test-marker simulations for the study of **hot-tail run
 
 The marker tracker follows a population of weighted electron markers in the time-dependent MHD fields of a JOREK simulation. These scripts read its HDF5 outputs and rebuild the electron distribution function in the (p, ξ, R, Z, φ) phase space, select the runaway population, follow the markers lost at the wall, and produce the standard figures and animations of a hot-tail study.
 
-<p align="center">
-  <img src="docs/overview.png" width="800" alt="Example figures produced on a synthetic run">
-</p>
 
 ## Features
 
