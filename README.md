@@ -1,4 +1,4 @@
-# hottail-markers
+# analysis_hot_tail_tracker
 
 Post-processing of JOREK test-marker simulations for the study of **hot-tail runaway electron (RE) generation** during tokamak disruptions.
 
@@ -20,8 +20,8 @@ The marker tracker follows a population of weighted electron markers in the time
 ## Installation
 
 ```bash
-git clone https://github.com/<user>/hottail-markers.git
-cd hottail-markers
+git clone git@github.com:LouisP-runaway/analysis_hot_tail_tracker.git
+cd analysis_hot_tail_tracker
 pip install numpy scipy matplotlib h5py pillow
 ```
 
@@ -126,4 +126,8 @@ geometries/             JOREK namelists with the wall and limiter outlines
 
 ## Credits
 
-Original implementation by Louis Puel (CEA, 2024) for the hot-tail marker tracker. Cleaned, restructured and extended in 2026.
+Original implementation by Louis Puel (CEA, 2024), author of the hot-tail marker tracker. Cleaned, restructured and extended by Timothé Auclair (CEA, 2026).
+
+## License
+
+To be defined.
